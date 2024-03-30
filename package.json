@@ -1,0 +1,20 @@
+{
+  "name": "2024-cli-number-guessing-game",
+  "version": "1.0.0",
+  "description": "This is a CLI based Number Guessing Game.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Anam\"",
+  "license": "MIT",
+  "dependencies": {
+    "2024-cli-number-guessing-game": "^1.0.0",
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
